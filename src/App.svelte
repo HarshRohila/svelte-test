@@ -5,7 +5,7 @@
 <header>
 	<h1>App Name</h1>
 </header>
-<ConversationTile names={['Harsh', 'Rohila']} />
+<ConversationTile names={['Kanishk', 'Rohila']} />
 
 <style>
 	header {
